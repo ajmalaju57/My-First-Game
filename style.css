@@ -20,6 +20,7 @@
   body {
     margin: 0;
     background: radial-gradient(#9D5900, #3D2200);
+      background-image: url("Background-image.png")
   }
   
   .page-title {
