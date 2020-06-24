@@ -2,4 +2,4 @@
 This Game Was Developed With html
 
 
-https://cyberworld57.github.io/My-First-Game/
+https://ajmalaju57.github.io/My-First-Game/
